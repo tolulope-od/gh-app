@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@tailwind utilities;
+
+.wrapper {
+  text-align: center;
+}
+
+.brand-logo {
+  background-image: url('https://flexiana.com/app/themes/flexianacom/dist/assets/images/logo_flexiana_gold.svg');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  width: 100px;
+  height: 30px;
+}
+.inactive-theme{
+  color:#c29a3d;
+}
